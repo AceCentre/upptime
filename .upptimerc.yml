@@ -45,8 +45,8 @@ sites:
     assignees:
       - gavinhenderson
   - name: Dasher
-    icon: https://dasher.acecentre.net/
-    url: https://dasher.acecentre.net/favicons/favicon.ico
+    icon: https://dasher.acecentre.net/favicons/favicon.ico
+    url: https://dasher.acecentre.net
     assignees:
       - gavinhenderson
 
