@@ -6,14 +6,17 @@ user-agent: gavinhenderson
 sites:
   - name: Main Site
     url: http://acecentre.org.uk/
+    favicon: https://acecentre.org.uk/favicon.ico
     assignees:
       - gavinhenderson
   - name: Backend
     url: https://backend.acecentre.org.uk/
+    favicon: https://backend.acecentre.org.uk/favicon.ico
     assignees:
       - gavinhenderson
   - name: Moodle
     url: https://learning.acecentre.org.uk/
+    favicon: https://learning.acecentre.org.uk/theme/image.php/super/theme/1650864752/favicon
     assignees:
       - gavinhenderson
 
