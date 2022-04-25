@@ -24,6 +24,31 @@ sites:
     icon: https://central.acecentre.org.uk/favicon.ico
     assignees:
       - gavinhenderson
+  - name: Assistive Technology
+    url: https://assistivetechnology.org.uk/
+    icon: https://assistivetechnology.org.uk/wordpress/wp-content/uploads/2020/04/cropped-screen-icon-1-32x32.png
+    assignees:
+      - gavinhenderson
+  - name: Open Assistive
+    icon: https://raw.githubusercontent.com/openassistive/OpenATFrontEnd/master/static/images/logo_purple.png
+    url: https://openassistive.org/
+    assignees:
+      - gavinhenderson
+  - name: Open Assistive - API
+    icon: https://raw.githubusercontent.com/openassistive/OpenATFrontEnd/master/static/images/logo_purple.png
+    url: https://api.openassistive.org/
+    assignees:
+      - gavinhenderson
+  - name: SpeechBubble
+    icon: https://speechbubble.org.uk/favicon.ico
+    url: https://speechbubble.org.uk/
+    assignees:
+      - gavinhenderson
+  - name: Dasher
+    icon: https://dasher.acecentre.net/
+    url: https://dasher.acecentre.net/favicons/favicon.ico
+    assignees:
+      - gavinhenderson
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
