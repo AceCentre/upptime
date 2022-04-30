@@ -4,18 +4,20 @@
     "url": "http://acecentre.org.uk/",
     "icon": "https://acecentre.org.uk/favicon.ico",
     "slug": "main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1041,
-    "timeDay": 1366,
-    "timeWeek": 1041,
-    "timeMonth": 1041,
-    "timeYear": 1041,
-    "dailyMinutesDown": {}
+    "time": 1199,
+    "timeDay": 2233,
+    "timeWeek": 1199,
+    "timeMonth": 1199,
+    "timeYear": 1199,
+    "dailyMinutesDown": {
+      "2022-04-30": 0
+    }
   },
   {
     "name": "Backend",
@@ -148,17 +150,19 @@
     "url": "https://dasher.acecentre.net",
     "icon": "https://dasher.acecentre.net/favicons/favicon.ico",
     "slug": "dasher",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 186,
-    "timeDay": 90,
-    "timeWeek": 186,
-    "timeMonth": 186,
-    "timeYear": 186,
-    "dailyMinutesDown": {}
+    "time": 548,
+    "timeDay": 1588,
+    "timeWeek": 548,
+    "timeMonth": 548,
+    "timeYear": 548,
+    "dailyMinutesDown": {
+      "2022-04-30": 0
+    }
   }
 ]
