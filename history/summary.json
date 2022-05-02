@@ -4,19 +4,19 @@
     "url": "http://acecentre.org.uk/",
     "icon": "https://acecentre.org.uk/favicon.ico",
     "slug": "main-site",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 2142,
-    "timeDay": 8601,
-    "timeWeek": 2142,
-    "timeMonth": 2142,
-    "timeYear": 2142,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 2594,
+    "timeDay": 9163,
+    "timeWeek": 2594,
+    "timeMonth": 2594,
+    "timeYear": 2594,
     "dailyMinutesDown": {
-      "2022-05-02": 0
+      "2022-05-02": 6
     }
   },
   {
@@ -97,18 +97,18 @@
     "icon": "https://raw.githubusercontent.com/openassistive/OpenATFrontEnd/master/static/images/logo_purple.png",
     "slug": "open-assistive",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.93%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 857,
     "timeDay": 228,
     "timeWeek": 857,
     "timeMonth": 857,
     "timeYear": 857,
     "dailyMinutesDown": {
-      "2022-05-02": 0
+      "2022-05-02": 7
     }
   },
   {
@@ -153,18 +153,18 @@
     "icon": "https://dasher.acecentre.net/favicons/favicon.ico",
     "slug": "dasher",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.93%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 485,
     "timeDay": 76,
     "timeWeek": 485,
     "timeMonth": 485,
     "timeYear": 485,
     "dailyMinutesDown": {
-      "2022-05-02": 0
+      "2022-05-02": 7
     }
   }
 ]
