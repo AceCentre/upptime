@@ -4,19 +4,19 @@
     "url": "http://acecentre.org.uk/",
     "icon": "https://acecentre.org.uk/favicon.ico",
     "slug": "main-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2357,
-    "timeDay": 267,
-    "timeWeek": 3398,
-    "timeMonth": 2357,
-    "timeYear": 2357,
+    "status": "up",
+    "uptime": "99.46%",
+    "uptimeDay": "95.02%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.46%",
+    "time": 2306,
+    "timeDay": 771,
+    "timeWeek": 3221,
+    "timeMonth": 2306,
+    "timeYear": 2306,
     "dailyMinutesDown": {
-      "2022-05-04": 0
+      "2022-05-04": 72
     }
   },
   {
