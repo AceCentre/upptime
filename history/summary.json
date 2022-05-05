@@ -5,18 +5,18 @@
     "icon": "https://acecentre.org.uk/favicon.ico",
     "slug": "main-site",
     "status": "down",
-    "uptime": "99.51%",
+    "uptime": "99.47%",
     "uptimeDay": "97.00%",
-    "uptimeWeek": "99.28%",
-    "uptimeMonth": "99.51%",
-    "uptimeYear": "99.51%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.47%",
     "time": 2161,
     "timeDay": 853,
     "timeWeek": 3060,
     "timeMonth": 2161,
     "timeYear": 2161,
     "dailyMinutesDown": {
-      "2022-05-05": 1,
+      "2022-05-05": 7,
       "2022-05-04": 72
     }
   },
@@ -25,18 +25,20 @@
     "url": "https://backend.acecentre.org.uk/",
     "icon": "https://backend.acecentre.org.uk/favicon.ico",
     "slug": "backend",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 2408,
     "timeDay": 3387,
     "timeWeek": 1886,
     "timeMonth": 2408,
     "timeYear": 2408,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-05": 1
+    }
   },
   {
     "name": "Moodle",
@@ -61,9 +63,9 @@
     "url": "https://central.acecentre.org.uk/",
     "icon": "https://central.acecentre.org.uk/favicon.ico",
     "slug": "central",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -72,7 +74,9 @@
     "timeWeek": 872,
     "timeMonth": 730,
     "timeYear": 730,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-05": 0
+    }
   },
   {
     "name": "Assistive Technology",
