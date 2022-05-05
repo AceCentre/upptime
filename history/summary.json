@@ -5,17 +5,18 @@
     "icon": "https://acecentre.org.uk/favicon.ico",
     "slug": "main-site",
     "status": "up",
-    "uptime": "99.47%",
-    "uptimeDay": "95.02%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.47%",
-    "uptimeYear": "99.47%",
+    "uptime": "99.50%",
+    "uptimeDay": "95.56%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.50%",
     "time": 2247,
     "timeDay": 1142,
     "timeWeek": 3292,
     "timeMonth": 2247,
     "timeYear": 2247,
     "dailyMinutesDown": {
+      "2022-05-05": 2,
       "2022-05-04": 72
     }
   },
@@ -25,27 +26,29 @@
     "icon": "https://backend.acecentre.org.uk/favicon.ico",
     "slug": "backend",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 2247,
     "timeDay": 1455,
-    "timeWeek": 3186,
+    "timeWeek": 1396,
     "timeMonth": 2247,
     "timeYear": 2247,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-05": 1
+    }
   },
   {
     "name": "Moodle",
     "url": "https://learning.acecentre.org.uk/",
     "icon": "https://learning.acecentre.org.uk/theme/image.php/super/theme/1650864752/favicon",
     "slug": "moodle",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3225,
@@ -53,16 +56,18 @@
     "timeWeek": 3470,
     "timeMonth": 3225,
     "timeYear": 3225,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-05": 1
+    }
   },
   {
     "name": "Central",
     "url": "https://central.acecentre.org.uk/",
     "icon": "https://central.acecentre.org.uk/favicon.ico",
     "slug": "central",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +76,9 @@
     "timeWeek": 931,
     "timeMonth": 750,
     "timeYear": 750,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-05": 0
+    }
   },
   {
     "name": "Assistive Technology",
