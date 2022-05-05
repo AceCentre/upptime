@@ -5,18 +5,18 @@
     "icon": "https://acecentre.org.uk/favicon.ico",
     "slug": "main-site",
     "status": "down",
-    "uptime": "99.50%",
+    "uptime": "99.43%",
     "uptimeDay": "98.77%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.50%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.43%",
     "time": 2350,
     "timeDay": 2315,
     "timeWeek": 3320,
     "timeMonth": 2350,
     "timeYear": 2350,
     "dailyMinutesDown": {
-      "2022-05-05": 2,
+      "2022-05-05": 12,
       "2022-05-04": 72
     }
   },
@@ -26,18 +26,18 @@
     "icon": "https://backend.acecentre.org.uk/favicon.ico",
     "slug": "backend",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.92%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 2486,
     "timeDay": 3578,
     "timeWeek": 2117,
     "timeMonth": 2486,
     "timeYear": 2486,
     "dailyMinutesDown": {
-      "2022-05-05": 1
+      "2022-05-05": 11
     }
   },
   {
@@ -45,19 +45,19 @@
     "url": "https://learning.acecentre.org.uk/",
     "icon": "https://learning.acecentre.org.uk/theme/image.php/super/theme/1650864752/favicon",
     "slug": "moodle",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3188,
-    "timeDay": 3076,
-    "timeWeek": 3355,
-    "timeMonth": 3188,
-    "timeYear": 3188,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 3495,
+    "timeDay": 5062,
+    "timeWeek": 3986,
+    "timeMonth": 3495,
+    "timeYear": 3495,
     "dailyMinutesDown": {
-      "2022-05-05": 1
+      "2022-05-05": 10
     }
   },
   {
@@ -66,18 +66,18 @@
     "icon": "https://central.acecentre.org.uk/favicon.ico",
     "slug": "central",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.93%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 712,
     "timeDay": 464,
     "timeWeek": 823,
     "timeMonth": 712,
     "timeYear": 712,
     "dailyMinutesDown": {
-      "2022-05-05": 0
+      "2022-05-05": 10
     }
   },
   {
