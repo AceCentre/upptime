@@ -4,19 +4,19 @@
     "url": "http://acecentre.org.uk/",
     "icon": "https://acecentre.org.uk/favicon.ico",
     "slug": "main-site",
-    "status": "down",
-    "uptime": "99.49%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.10%",
-    "uptimeMonth": "99.49%",
-    "uptimeYear": "99.49%",
-    "time": 2120,
-    "timeDay": 142,
-    "timeWeek": 2960,
-    "timeMonth": 2120,
-    "timeYear": 2120,
+    "status": "up",
+    "uptime": "99.44%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.01%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.44%",
+    "time": 2052,
+    "timeDay": 184,
+    "timeWeek": 2765,
+    "timeMonth": 2052,
+    "timeYear": 2052,
     "dailyMinutesDown": {
-      "2022-05-07": 0,
+      "2022-05-07": 9,
       "2022-05-05": 19,
       "2022-05-04": 72
     }
@@ -157,18 +157,16 @@
     "icon": "https://dasher.acecentre.net/favicons/favicon.ico",
     "slug": "dasher",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 333,
     "timeDay": 102,
     "timeWeek": 101,
     "timeMonth": 333,
     "timeYear": 333,
-    "dailyMinutesDown": {
-      "2022-05-07": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
