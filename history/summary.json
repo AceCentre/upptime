@@ -45,19 +45,19 @@
     "url": "https://learning.acecentre.org.uk/",
     "icon": "https://learning.acecentre.org.uk/theme/image.php/super/theme/1650864752/favicon",
     "slug": "moodle",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3476,
-    "timeDay": 2825,
-    "timeWeek": 3916,
-    "timeMonth": 3476,
-    "timeYear": 3476,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 3437,
+    "timeDay": 2690,
+    "timeWeek": 3780,
+    "timeMonth": 3437,
+    "timeYear": 3437,
     "dailyMinutesDown": {
-      "2022-05-11": 0
+      "2022-05-11": 18
     }
   },
   {
