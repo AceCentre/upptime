@@ -5,18 +5,17 @@
     "icon": "https://acecentre.org.uk/favicon.ico",
     "slug": "main-site",
     "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "98.98%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.55%",
+    "uptime": "99.61%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.61%",
     "time": 1848,
     "timeDay": 707,
     "timeWeek": 1066,
     "timeMonth": 1848,
     "timeYear": 1848,
     "dailyMinutesDown": {
-      "2022-05-11": 12,
       "2022-05-05": 19,
       "2022-05-04": 72
     }
@@ -46,18 +45,20 @@
     "url": "https://learning.acecentre.org.uk/",
     "icon": "https://learning.acecentre.org.uk/theme/image.php/super/theme/1650864752/favicon",
     "slug": "moodle",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3545,
-    "timeDay": 3888,
-    "timeWeek": 4155,
-    "timeMonth": 3545,
-    "timeYear": 3545,
-    "dailyMinutesDown": {}
+    "time": 3476,
+    "timeDay": 2825,
+    "timeWeek": 3916,
+    "timeMonth": 3476,
+    "timeYear": 3476,
+    "dailyMinutesDown": {
+      "2022-05-11": 0
+    }
   },
   {
     "name": "Central",
