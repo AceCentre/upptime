@@ -4,9 +4,9 @@
     "url": "http://acecentre.org.uk/",
     "icon": "https://acecentre.org.uk/favicon.ico",
     "slug": "main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.78%",
@@ -16,6 +16,7 @@
     "timeMonth": 1658,
     "timeYear": 1658,
     "dailyMinutesDown": {
+      "2022-05-24": 0,
       "2022-05-05": 19,
       "2022-05-04": 72
     }
