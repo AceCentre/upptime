@@ -68,11 +68,11 @@
     "icon": "https://central.acecentre.org.uk/favicon.ico",
     "slug": "central",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "99.93%",
+    "uptimeYear": "99.94%",
     "time": 768,
     "timeDay": 1349,
     "timeWeek": 1139,
@@ -142,9 +142,9 @@
     "url": "https://speechbubble.org.uk/",
     "icon": "https://speechbubble.org.uk/favicon.ico",
     "slug": "speech-bubble",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -153,7 +153,9 @@
     "timeWeek": 469,
     "timeMonth": 431,
     "timeYear": 432,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-04": 0
+    }
   },
   {
     "name": "Dasher",
