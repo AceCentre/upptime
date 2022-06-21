@@ -4,9 +4,9 @@
     "url": "http://acecentre.org.uk/",
     "icon": "https://acecentre.org.uk/favicon.ico",
     "slug": "main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.86%",
@@ -16,6 +16,7 @@
     "timeMonth": 1568,
     "timeYear": 1644,
     "dailyMinutesDown": {
+      "2022-06-21": 0,
       "2022-05-24": 24,
       "2022-05-05": 19,
       "2022-05-04": 72
@@ -106,9 +107,9 @@
     "url": "https://openassistive.org/",
     "icon": "https://raw.githubusercontent.com/openassistive/OpenATFrontEnd/master/static/images/logo_purple.png",
     "slug": "open-assistive",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -117,7 +118,9 @@
     "timeWeek": 932,
     "timeMonth": 583,
     "timeYear": 572,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   },
   {
     "name": "Open Assistive - API",
@@ -143,19 +146,17 @@
     "icon": "https://speechbubble.org.uk/favicon.ico",
     "slug": "speech-bubble",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 477,
     "timeDay": 731,
     "timeWeek": 580,
     "timeMonth": 524,
     "timeYear": 477,
-    "dailyMinutesDown": {
-      "2022-06-21": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dasher",
