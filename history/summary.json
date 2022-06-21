@@ -142,9 +142,9 @@
     "url": "https://speechbubble.org.uk/",
     "icon": "https://speechbubble.org.uk/favicon.ico",
     "slug": "speech-bubble",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -153,7 +153,9 @@
     "timeWeek": 465,
     "timeMonth": 493,
     "timeYear": 459,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   },
   {
     "name": "Dasher",
