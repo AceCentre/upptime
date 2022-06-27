@@ -47,9 +47,9 @@
     "url": "https://learning.acecentre.org.uk/",
     "icon": "https://learning.acecentre.org.uk/theme/image.php/super/theme/1650864752/favicon",
     "slug": "moodle",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -59,6 +59,7 @@
     "timeMonth": 3489,
     "timeYear": 3308,
     "dailyMinutesDown": {
+      "2022-06-27": 0,
       "2022-05-11": 18
     }
   },
