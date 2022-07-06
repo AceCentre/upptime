@@ -143,18 +143,20 @@
     "url": "https://speechbubble.org.uk/",
     "icon": "https://speechbubble.org.uk/favicon.ico",
     "slug": "speech-bubble",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 469,
-    "timeDay": 474,
-    "timeWeek": 462,
-    "timeMonth": 492,
-    "timeYear": 469,
-    "dailyMinutesDown": {}
+    "time": 467,
+    "timeDay": 375,
+    "timeWeek": 439,
+    "timeMonth": 486,
+    "timeYear": 467,
+    "dailyMinutesDown": {
+      "2022-07-06": 0
+    }
   },
   {
     "name": "Dasher",
