@@ -5,18 +5,17 @@
     "icon": "https://acecentre.org.uk/favicon.ico",
     "slug": "main-site",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.90%",
     "time": 1606,
     "timeDay": 2780,
-    "timeWeek": 1075,
+    "timeWeek": 1188,
     "timeMonth": 1682,
     "timeYear": 1606,
     "dailyMinutesDown": {
-      "2022-07-13": 8,
       "2022-05-24": 24,
       "2022-05-05": 19,
       "2022-05-04": 72
@@ -109,19 +108,17 @@
     "icon": "https://raw.githubusercontent.com/openassistive/OpenATFrontEnd/master/static/images/logo_purple.png",
     "slug": "open-assistive",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 546,
     "timeDay": 292,
     "timeWeek": 241,
     "timeMonth": 578,
     "timeYear": 546,
-    "dailyMinutesDown": {
-      "2022-07-13": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Open Assistive - API",
@@ -154,7 +151,7 @@
     "uptimeYear": "100.00%",
     "time": 462,
     "timeDay": 344,
-    "timeWeek": 398,
+    "timeWeek": 420,
     "timeMonth": 468,
     "timeYear": 462,
     "dailyMinutesDown": {}
@@ -164,19 +161,19 @@
     "url": "https://dasher.acecentre.net",
     "icon": "https://dasher.acecentre.net/favicons/favicon.ico",
     "slug": "dasher",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 614,
     "timeDay": 176,
     "timeWeek": 703,
     "timeMonth": 850,
     "timeYear": 614,
     "dailyMinutesDown": {
-      "2022-07-13": 8
+      "2022-07-13": 0
     }
   }
 ]
