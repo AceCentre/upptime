@@ -161,19 +161,19 @@
     "url": "https://dasher.acecentre.net",
     "icon": "https://dasher.acecentre.net/favicons/favicon.ico",
     "slug": "dasher",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 614,
-    "timeDay": 176,
-    "timeWeek": 703,
-    "timeMonth": 850,
-    "timeYear": 614,
+    "time": 608,
+    "timeDay": 144,
+    "timeWeek": 640,
+    "timeMonth": 828,
+    "timeYear": 608,
     "dailyMinutesDown": {
-      "2022-07-13": 0
+      "2022-07-13": 3
     }
   }
 ]
