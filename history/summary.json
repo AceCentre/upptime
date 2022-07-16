@@ -4,9 +4,9 @@
     "url": "http://acecentre.org.uk/",
     "icon": "https://acecentre.org.uk/favicon.ico",
     "slug": "main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
@@ -16,6 +16,7 @@
     "timeMonth": 1420,
     "timeYear": 1626,
     "dailyMinutesDown": {
+      "2022-07-16": 0,
       "2022-05-24": 24,
       "2022-05-05": 19,
       "2022-05-04": 72
@@ -26,9 +27,9 @@
     "url": "https://backend.acecentre.org.uk/",
     "icon": "https://backend.acecentre.org.uk/favicon.ico",
     "slug": "backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -38,6 +39,7 @@
     "timeMonth": 3404,
     "timeYear": 3122,
     "dailyMinutesDown": {
+      "2022-07-16": 0,
       "2022-05-13": 18,
       "2022-05-05": 18
     }
@@ -47,9 +49,9 @@
     "url": "https://learning.acecentre.org.uk/",
     "icon": "https://learning.acecentre.org.uk/theme/image.php/super/theme/1650864752/favicon",
     "slug": "moodle",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.90%",
@@ -59,6 +61,7 @@
     "timeMonth": 3366,
     "timeYear": 3352,
     "dailyMinutesDown": {
+      "2022-07-16": 0,
       "2022-06-27": 104,
       "2022-05-11": 18
     }
@@ -68,9 +71,9 @@
     "url": "https://central.acecentre.org.uk/",
     "icon": "https://central.acecentre.org.uk/favicon.ico",
     "slug": "central",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -80,6 +83,7 @@
     "timeMonth": 708,
     "timeYear": 751,
     "dailyMinutesDown": {
+      "2022-07-16": 0,
       "2022-05-24": 20,
       "2022-05-05": 17
     }
