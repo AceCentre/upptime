@@ -115,9 +115,9 @@
     "url": "https://openassistive.org/",
     "icon": "https://raw.githubusercontent.com/openassistive/OpenATFrontEnd/master/static/images/logo_purple.png",
     "slug": "open-assistive",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -126,7 +126,9 @@
     "timeWeek": 1082,
     "timeMonth": 600,
     "timeYear": 582,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-21": 0
+    }
   },
   {
     "name": "Open Assistive - API",
@@ -160,7 +162,7 @@
     "time": 457,
     "timeDay": 303,
     "timeWeek": 420,
-    "timeMonth": 454,
+    "timeMonth": 417,
     "timeYear": 457,
     "dailyMinutesDown": {}
   },
